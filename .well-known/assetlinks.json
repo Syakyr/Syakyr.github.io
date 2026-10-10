@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.github.syakyr.twa",
+      "package_name": "com.syakyr.sudoku.twa",
       "sha256_cert_fingerprints": [
         "9A:C3:E1:86:7E:91:8C:51:0F:A9:8A:FC:F7:F0:AD:72:22:67:96:82:77:05:4B:65:D2:AA:C8:B1:9C:28:4B:DB"
       ]
